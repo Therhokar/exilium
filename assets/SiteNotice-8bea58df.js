@@ -1,0 +1,1 @@
+import{_ as c,o,c as r}from"./index-c096b54a.js";function i(e){const n=Object.entries(e);return new Map(n.map(t=>[+t[0],t[1]]))}const s={};function a(e,n){return o(),r("p",null,"注意：本站目前显示的是公测版本1.0.2010.2248.3498的信息。")}const p=c(s,[["render",a]]);export{p as S,i as j};
