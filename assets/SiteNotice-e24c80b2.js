@@ -1,0 +1,1 @@
+import{o as t,c as a,i as e,g as o,z as r,a as s}from"./index-a10f623c.js";const c=s("a",{href:"https://therhokar.github.io/exilium/#/",target:"_blank"},"GitHub上的镜像站",-1),u={__name:"SiteNotice",setup(i){return(_,n)=>(t(),a("p",null,[e("注意：本站目前显示的是公测版本"),o(r),e("的信息。技能和武器图标由于审核原因不在本站显示，如有需要请移步"),c,e("。")]))}};export{u as _};
